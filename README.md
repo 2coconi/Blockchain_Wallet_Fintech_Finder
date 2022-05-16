@@ -8,8 +8,8 @@ This project is aim to build a new and disruptive platform called Fintech Finder
 * Step 3: Inspect the Transaction
 
 ## screenshots from Ganache that show the sender's address balance and history, and the recipient's address balance and history
-![alt text](/screen_shot_1.png?raw=true)
-![alt text](/screen_shot_2.png?raw=true)
+![alt text](https://github.com/2coconi/CH-19/blob/main/Screen_Shot_1.png?raw=true)
+![alt text](https://github.com/2coconi/CH-19/blob/main/Screen_Shot_2.png?raw=true)
 
 Technologies
 streamlit
